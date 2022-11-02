@@ -1,9 +1,13 @@
 # F1tenth_IROS2020
 Event: [Autonomous Racing F1tenth @ IROS2020](https://f1tenth.org/iros2020)
 
+Team: Siddharth Saha, Shreesh Tripathi, Bruno Pinto, Calvin Kielas Jensen
+
 ### Steps to Replicate Workspace
 
 1. Follow the steps in the [F1tenth Gym repository](https://github.com/f1tenth/f1tenth_gym_ros) to install the simulation environment.
 2. `roscd f1tenth_gym_ros`
 3. `rm -r scripts` (The existing files in the *scripts* folder have been moved to our repository)
 4. `git clone https://github.com/ntr0pie/f1tenth-iros2020.git scripts`
+
+PS: This is a mirror of Siddharth's original repository
